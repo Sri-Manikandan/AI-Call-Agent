@@ -8,6 +8,6 @@ dependencies = [
     "mcp>=1.26.0",
     "mkdocs>=1.6.1",
     "openai>=2.15.0",
-    "python-dotenv>=1.2.1",
+    "python-dotenv>=1.2.2",
     "websockets>=16.0",
 ]
